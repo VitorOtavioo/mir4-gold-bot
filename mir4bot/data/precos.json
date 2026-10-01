@@ -1,0 +1,17 @@
+{
+  "taxa_mercado_percent": 5.3,
+  "cotacao_fallback_usd_brl": 5.80,
+  "faixas_brl": [
+    {"min": 1000, "max": 4999, "preco": 21.0},
+    {"min": 5000, "max": 9999, "preco": 20.0},
+    {"min": 10000, "max": 19999, "preco": 19.5},
+    {"min": 20000, "max": null, "preco": 19.0}
+  ],
+  "servidores": {
+    "SA": {"estoque_gold": 500000},
+    "NA": {"estoque_gold": 300000},
+    "EU": {"estoque_gold": 300000},
+    "ASIA": {"estoque_gold": 200000},
+    "MENA": {"estoque_gold": 200000}
+  }
+}
